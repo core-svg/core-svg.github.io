@@ -1,2 +1,2 @@
-# bibbase.github.io
-BibBase Example Page
+# eenerait.github.io
+CORE PI Publications Page
