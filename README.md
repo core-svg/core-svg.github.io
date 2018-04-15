@@ -1,2 +1,2 @@
-# eenerait.github.io
+# corepub.github.io
 CORE PI Publications Page
